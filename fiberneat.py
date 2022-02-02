@@ -1,3 +1,10 @@
+'''
+Chandio, B.Q., Chattopadhyay, T., Owens-Walton, C., Reina, J.E.V., 
+Nabulsi, L., Thomopoulos, S.I., Garyfallidis, E. and Thompson, P.M., 2022. 
+FiberNeat: Unsupervised White Matter Tract Filtering. bioRxiv.
+'''
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
