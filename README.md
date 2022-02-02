@@ -14,6 +14,8 @@ sklearn (https://scikit-learn.org/)
 
 umap-learn (https://umap-learn.readthedocs.io/en/latest/)
 
+pandas (https://pandas.pydata.org/)
+
 matplotlib (https://matplotlib.org/)
 
 seaborn (https://seaborn.pydata.org/)
