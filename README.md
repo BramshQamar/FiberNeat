@@ -6,10 +6,16 @@ Chandio, B.Q., Chattopadhyay, T., Owens-Walton, C., Reina, J.E.V., Nabulsi, L., 
 
 ## Dependencies:
 
+Python 3
+
 DIPY (https://dipy.org/)
+
 sklearn (https://scikit-learn.org/)
+
 umap-learn (https://umap-learn.readthedocs.io/en/latest/)
+
 matplotlib (https://matplotlib.org/)
+
 seaborn (https://seaborn.pydata.org/)
 
 
